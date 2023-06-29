@@ -1,3 +1,7 @@
+I am getting error while trying to deploy uups proxy contracts
+
+![error](./screenshots/error.png)
+
 # Hardhat Template [![Open in Gitpod][gitpod-badge]][gitpod] [![Github Actions][gha-badge]][gha] [![Hardhat][hardhat-badge]][hardhat] [![License: MIT][license-badge]][license]
 
 [gitpod]: https://gitpod.io/#https://github.com/paulrberg/hardhat-template
